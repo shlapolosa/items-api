@@ -1,2 +1,3 @@
 # items-api
-OAM-driven via app.submit (items-api)
+
+CLAUDE.md-compliant microservice application container.
