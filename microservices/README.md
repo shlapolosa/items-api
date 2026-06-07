@@ -24,6 +24,3 @@ spec:
 ## Current Services
 
 - (Services will be listed here as they are added)
-- items-api (python/fastapi)
-- items-api (python/fastapi)
-- items-api (python/fastapi)
